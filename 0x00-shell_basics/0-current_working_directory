@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${/home/mentalstrang/alx-projects/alx-system_engineering-devops}
+pwd
